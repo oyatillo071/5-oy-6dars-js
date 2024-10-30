@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: monospace, sans-serif;
+}
+.container {
+  max-width: 800px;
+  width: 100%;
+  margin: 100px auto;
+}
+.wrapper {
+  max-width: 100%;
+  width: 100%;
+}
+.asnwer--wrapper {
+  max-width: 100%;
+  width: 100%;
+}
+button {
+  max-width: 100%;
+  width: 100%;
+  padding: 10px 20px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  margin-block: 20px;
+}
+
+input{
+border: 2px solid gray;
+color: black;
+max-width: 100%;
+width: 100%;
+padding: 10px 20px;
+border-radius: 12px;
+}
+p{
+    font-size: 25px;
+    margin-block: 20px;
+    
+}
